@@ -6,16 +6,18 @@
 
 #### 2) Запуск клиента(1 терминал)
 
-cd client
-npm i
-npm run dev
+* cd client \n
+* npm i
+* npm run dev
 
 #### 3) Запуск сервера(2 терминал)
 
-cd server
-npm i
-npm run start
+* cd server
+* npm i
+* npm run start
 
 
 
-33
+## Технологии
+
+### React, TypeScript, ReduxTK, RTK Query, Material UI, Formik
