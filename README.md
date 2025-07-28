@@ -6,7 +6,7 @@
 
 #### 2) Запуск клиента(1 терминал)
 
-* cd client \n
+* cd client
 * npm i
 * npm run dev
 
